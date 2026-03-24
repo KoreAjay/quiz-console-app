@@ -1,7 +1,7 @@
 package quiz.app.com;
 
 public class Question {
-
+	
 	private int id;
 	private String question;
 	private String opt1;
